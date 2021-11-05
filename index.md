@@ -1,3 +1,3 @@
-"Hello World"
+# Welcome!
 
 Read more [about us](/about/).
